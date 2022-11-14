@@ -8,7 +8,7 @@ Many people use the [IKEA DETOLF](https://www.ikea.com/gb/en/p/detolf-glass-door
 
 ![The before picture](https://github.com/sergeibuilds/LegoSaturnVLaunch/blob/main/pictures/1_before_picture.jpg)
 
-I design and printed a stand that consisted of an inner core that would have the LED’s wrapped around it, an outer, translucent wall that the cotton wool would stick to and a top and bottom lid to hold it all together.
+I design and 3D printed a stand that consisted of an inner core that would have the LED’s wrapped around it, an outer, translucent wall that the cotton wool would stick to and a top and bottom lid to hold it all together.
 I printed the base and inner tube in black PLA, the outer wall and top lid were printed in translucent PLA. The outer wall was printed in vase mode with no top or bottom so it printed as a tube.
 I also used a Pimoroni Plasma 2040 to control and drive a 1 metre length of WS2812 addressable flexible strip of LED’s, I used a 60 pixels per metre strip.
 
