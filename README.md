@@ -36,5 +36,5 @@ Then I turned off the lights and admired the effect!
 
 The Pimoroni Plasma 2040 is a great little dev board that is designed specifically for addressable LED’s so using this made coding very simple, I simply used their random-blinkies example from their [GitHub](https://github.com/pimoroni/pimoroni-pico/tree/main/micropython/examples/plasma2040) page and changed just 4 settings; Number of LED’s to 60 to match my strip, the Hue Start and Hue End values to get a range of red/yellows that I was happy with and the Speed to make them a bit faster.
 
-I used Micropython on my Plasma 2040 instead of Circuitpython as I found the random-blinkes example almost perfect for my use case.
+I used Micropython on my Plasma 2040 instead of Circuitpython as I found the random-blinkes example almost perfect for my use case. Once you have installed Micropython on the Plasma 2040 you just save the main.py file to it, I used Thonny to interact with the Plasma 2040 and then it will run when power is turned on.
 
